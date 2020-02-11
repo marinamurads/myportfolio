@@ -1,0 +1,83 @@
+.jumbotron {
+  background-color: #fff;
+  padding-bottom: 40px;
+  margin-bottom: 0;
+}
+
+.jumbotron p span {
+  color: turquoise;
+}
+
+.nav-link {
+  color: #000;
+  font-size: 25px;
+}
+
+.nav-item a:hover {
+  color: turquoise;
+}
+
+.twitter {
+  padding-left: 0;
+}
+
+.linkedin {
+  padding-right: 0;
+}
+
+.col-sm {
+  padding-top: 10px;
+}
+
+.about {
+  padding-bottom: 100px;
+}
+
+.skills {
+  padding-bottom: 100px;
+}
+
+.skills p {
+  padding-bottom: 10px;
+}
+
+.skills .courses {
+  text-decoration: none;
+  color: turquoise;
+}
+
+span {
+  color: turquoise;
+}
+
+.card-text {
+  color: #3737;
+}
+
+.card-link {
+  text-decoration: none;
+  color: turquoise;
+}
+
+.card-link:hover {
+  color: #000;
+}
+
+.footer {
+  height: 80px;
+  background: turquoise;
+}
+
+.footer a {
+  text-decoration: none;
+}
+
+.footer a:hover {
+  color: #fff;
+}
+
+.contact {
+  padding-top: 100px;
+  padding-bottom: 150px;
+}
+/*# sourceMappingURL=style.css.map */
