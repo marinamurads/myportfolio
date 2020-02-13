@@ -47,6 +47,16 @@ $linkColor: turquoise;
     }
 }
 
+.btn {
+    color: $linkColor;
+    border-color: $linkColor;
+}
+
+.btn:hover {
+    background-color: $linkColor;
+    border-color: $linkColor;
+}
+
 span {
     color: $linkColor;
     }

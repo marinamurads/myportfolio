@@ -50,6 +50,16 @@
   color: turquoise;
 }
 
+.btn {
+  color: turquoise;
+  border-color: turquoise;
+}
+
+.btn:hover {
+  background-color: turquoise;
+  border-color: turquoise;
+}
+
 span {
   color: turquoise;
 }
